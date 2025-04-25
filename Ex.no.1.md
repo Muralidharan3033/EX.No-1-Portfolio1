@@ -50,7 +50,7 @@ Upload to GitHub Pages for free hosting.
 ## PROGRAM
 index.html
 
-"""
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -191,11 +191,11 @@ index.html
     </footer>
 </body>
 </html>
-"""
+```
 
 
 style.css
-"""
+```
 
 * {
     margin: 0;
@@ -684,8 +684,7 @@ footer {
         font-size: 0.9rem;
     }
 }
-
-"""
+```
 
 
 ## OUTPUT
