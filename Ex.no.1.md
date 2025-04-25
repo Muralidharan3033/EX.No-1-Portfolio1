@@ -49,6 +49,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 index.html
+
 '''
 <!DOCTYPE html>
 <html lang="en">
@@ -192,8 +193,8 @@ index.html
 </html>
 '''
 
-style.css
 
+style.css
 '''
 
 * {
